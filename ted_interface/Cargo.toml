@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "wolf_interface",
+  "wolf_serialise",
+  "wolf_serialise_derive",
+  "wolf_serialise_derive_test",
+  "id",
+  "fixed_const",
+  "coords",
+  "sprite_mappings",
+]
+

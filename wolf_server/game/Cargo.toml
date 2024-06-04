@@ -1,0 +1,25 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["4dplanner <3combined@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+signal_listener_macro = {path = "../signal_listener_macro"}
+anymap="*"
+once_cell="*"
+strum_macros = "*"
+wolf_interface = {path = "../../ted_interface/wolf_interface"}
+coords = {path = "../../ted_interface/coords"}
+sprite_mappings = {path = "../../ted_interface/sprite_mappings"}
+id = {path = "../../ted_interface/id"}
+utilities = {path = "../utilities"}
+rand = "*"
+fixed_const.path = "../../ted_interface/fixed_const"
+wolf_hash_map = {path = "../../ted_interface/wolf_hash_map"}
+noise = "0.9.0"
+
+[features]
+timing = []

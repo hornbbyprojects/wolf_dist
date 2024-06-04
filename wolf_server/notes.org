@@ -1,0 +1,56 @@
+* 2024 push
+** The city
+*** TODO Goals per day:
+* TODO Villagers that wander, do nothing
+* TODO Villagers that go to places of interest
+* TODO Villagers that do jobs
+* TODO Player built towns
+* TODO Villagers respond to player towns
+* TODO Towns saved + persisted
+* TODO Threats to town
+* TODO Village defends against threats
+* TODO Village expands
+* TODO Internal threats (Cultists)
+* TODO Wars
+* TODO Reputation (per faction)
+
+** TODO: Village tasks
+
+
+
+* VILLAGERS ARE NOT GAMEPLAY
+** Let's design a first quest
+WIZARD: YOU MUST RETRIEVE THE HORN OF HORNS
+IT IS GUARDED BY A DRAGON
+THROUGH A RAVINE FILLED WITH SKELETONS
+IN A BED OF GOLD
+^ this sucked
+
+Maybe some dangerous fauna? Survival in an alien world
+Break time - think up some of these fauna
+Web Spiders (Hunt using webs, but strange + magical effects when stepping on them)
+Wolves <- Traditional
+The pack bays for your blood....
+WOLF LEADER, many stages, ridiculous number of wolves
+Stage 1: Wolf leader stands by, harassed by scouts
+Stage 2: Onslaught - Wave after wave of wolves attacks rapidly
+Stage 3: Wolf leader attacks you personally in the middle of the waves
+Stage 4: The dead (numerous) begin to rise
+
+Question - What is magic?
+Potential answer - wizards desire to become other than human
+Paths:
+Necromancer (death, become corpse)
+Obviously raise dead
+Fade away, fight via minions, not accessible 
+
+Mutant (Change, gain ridiculous abilities)
+Choose alternatives for each bodypart
+Legs: Quadriped (speed), Charger (dash), sluglike treads (??? - 
+Head: Mandibles (fatal attack), Eye mass (allows dropping eyes, regrowing whole body from them), Chimeric head (spell duplication)
+Body: etc
+
+  
+Paladin (Idealism)
+- Every x time, heal and reset cooldowns, dispel
+

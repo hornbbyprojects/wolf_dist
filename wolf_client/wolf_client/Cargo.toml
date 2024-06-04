@@ -1,0 +1,21 @@
+[package]
+name = "wolf_client"
+version = "0.1.0"
+authors = ["4dplanner <3combined@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wolf_interface.path = "../../ted_interface/wolf_interface"
+id.path = "../../ted_interface/id"
+coords.path = "../../ted_interface/coords"
+sprite_mappings.path = "../../ted_interface/sprite_mappings"
+rand = "*"
+anymap = "*"
+signal_listener_macro.path = "../../wolf_server/signal_listener_macro"
+
+[dependencies.sdl2]
+version = "*"
+default-features = false
+features = ["ttf","image", "ttf"]

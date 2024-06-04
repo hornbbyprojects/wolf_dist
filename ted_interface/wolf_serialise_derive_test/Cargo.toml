@@ -1,0 +1,13 @@
+[package]
+name = "wolf_serialise_derive_test"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wolf_serialise.path = "../wolf_serialise"
+wolf_serialise_derive.path = "../wolf_serialise_derive"
+[dev-dependencies]
+compiletest_rs = "0.7"
+

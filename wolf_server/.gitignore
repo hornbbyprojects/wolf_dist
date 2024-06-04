@@ -1,0 +1,5 @@
+target
+*.sw*
+*~
+notes
+host.txt

@@ -1,0 +1,18 @@
+[package]
+name = "coords"
+version = "0.1.0"
+authors = ["4dplanner <3combined@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fixed = "*"
+num-traits = "*"
+wolf_serialise_derive.path = "../wolf_serialise_derive"
+wolf_hash_map.path = "../wolf_hash_map"
+wolf_serialise.path = "../wolf_serialise"
+fixed_const.path = "../fixed_const"
+rand = "*"
+strum = "*"
+strum_macros = "*"
